@@ -1,0 +1,2 @@
+AUTOCHANGEBET = False;
+SMARTBET = true;
